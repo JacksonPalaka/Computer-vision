@@ -8,6 +8,9 @@ Projects in this Repository :
 4. Licence plate detection using trained YOLO model.
 
 
-Colab link :
+
 # Custom_Dataset_Training_with_YOLOv11
+This model is trained on a Rock-Paper-Scissor Game Dataset :
+
+Colab link : 
 https://drive.google.com/file/d/1bfHmV4mv2LAY3eVjMyWZaV1E3e5s3kO5/view?usp=sharing
