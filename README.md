@@ -15,6 +15,6 @@ This model is trained on a Rock-Paper-Scissor Game Model and Licence plate detec
 Colab link : 
 https://drive.google.com/file/d/1bfHmV4mv2LAY3eVjMyWZaV1E3e5s3kO5/view?usp=sharing
 
-# Model Inferencing with Pretrained Faster RCNN with Pytorch
+# Model Inferencing with Pretrained Faster RCNN with Pytorch - Computer vision
 Colab link:
 https://colab.research.google.com/drive/11yyQG0YM01kcytfmHOqnJYBHyLmOYzYH?usp=sharing
